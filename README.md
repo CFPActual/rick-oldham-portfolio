@@ -1,19 +1,33 @@
-# My Public Facing Portfolio: 
-Welcome to my portfolio.  I hope you enjoy your stay.
+# Rick Oldham Portfolio
 
-## Description
-Descriptions
+Welcome to my professional software engineering and machine learning portfolio.
 
-####  Section 2
-- Text
+This repository contains a curated collection of projects highlighting work in:
 
-#### SSection 3
-- Text
+* Machine Learning
+* Computer Vision
+* MLOps
+* Data-Centric AI
+* Software Engineering
 
-#### Section 4
-- Text
+Each project includes a concise overview, supporting visual artifacts, and links to presentations, reports, demonstrations, and source code where applicable.
 
+## Projects
 
-#### Section 5
-- Text
+### P1 — Machine Learning Operations for Pipeline Automation
+
+Prototype machine learning pipeline combining GAN-based data augmentation with CNN classification to explore automated model training workflows.
+
+### P2 — GreenCity Urban Tree Canopy Monitor
+
+Computer vision and geospatial analytics project using aerial imagery to detect and monitor urban tree canopy.
+
+### P3 — Image Quality as a Hyperparameter
+
+Experimental study investigating image preprocessing as a tunable hyperparameter for computer vision model performance.
+
+---
+
+Thank you for visiting my portfolio.
+
 
