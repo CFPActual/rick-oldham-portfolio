@@ -28,5 +28,5 @@ Machine Learning, MLOps, GANs, CNNs, Data Augmentation, Computer Vision, Model E
 * [Demo Video](https://youtu.be/YEcsnmd3NME)  
 
 ### GAN Augmentation Workflow 
-![GAN Augmentation Workflow](../images/P1_poster_final.png)
+![GAN Augmentation Workflow](images/P1_poster_final.png)
 
