@@ -28,4 +28,4 @@ Computer Vision, Object Detection, Geospatial Analytics, Remote Sensing, Urban F
 
 
  ### Image Processing Workflow
-![Image Processing Workflow](../images/img_proc.png)
+![Image Processing Workflow](images/img_proc.png)
