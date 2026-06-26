@@ -28,6 +28,6 @@ Computer Vision, Data-Centric AI, Feature Engineering, Experimental Design, Hype
 
 
 ### Interaction Heatmaps (Median Recall)
-![Interaction Heatmaps](../capstone/image_enhancement/results/final_figures/fig06_interaction_heatmaps_grid.png)
+![Interaction Heatmaps](capstone/image_enhancement/results/final_figures/fig06_interaction_heatmaps_grid.png)
 
 *Median recall surfaces show strong interaction effects among enhancement parameters. Brightness conditions sharpening behavior, while contrast window geometry exhibits bounded performance regimes.*
