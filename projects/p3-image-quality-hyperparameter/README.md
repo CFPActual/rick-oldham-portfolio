@@ -23,11 +23,11 @@ Computer Vision, Data-Centric AI, Feature Engineering, Experimental Design, Hype
 ## Artifacts
 
 * Enhancement Interaction Heatmap
-* [Project Report](https://github.com/CFPActual/myPFP/blob/main/capstone/image_enhancement/final_report_README.md)
-* [Source Code](https://github.com/CFPActual/myPFP/blob/main/capstone/image_enhancement/model_as_a_meter.ipynb)
+* [Project Report](report/report.pdf)
+* [Source Code](source/)
 
 
 ### Interaction Heatmaps (Median Recall)
-![Interaction Heatmaps](capstone/image_enhancement/results/final_figures/fig06_interaction_heatmaps_grid.png)
+![Interaction Heatmaps](images/fig06_interaction_heatmaps_grid.png)
 
 *Median recall surfaces show strong interaction effects among enhancement parameters. Brightness conditions sharpening behavior, while contrast window geometry exhibits bounded performance regimes.*
