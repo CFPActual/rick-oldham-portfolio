@@ -64,28 +64,28 @@ Metrics are logged and aggregated across runs to support interaction analysis an
 ## 7. Results
 
 ### Figure 1 — Recall vs Image Parameters
-![Recall vs Image Parameters](results/final_figures/fig01_recall_vs_params.png)
+![Recall vs Image Parameters](../source/image_enhancementresults/final_figures/fig01_recall_vs_params.png)
 
 *Recall varies nonlinearly across individual enhancement parameters, motivating interaction-based analysis.*
 
 ---
 
 ### Figure 2 — Interaction Heatmaps (Median Recall)
-![Interaction Heatmaps](results/final_figures/fig06_interaction_heatmaps_grid.png)
+![Interaction Heatmaps](../source/image_enhancementresults/final_figures/fig06_interaction_heatmaps_grid.png)
 
 *Median recall surfaces show strong interaction effects among enhancement parameters. Brightness conditions sharpening behavior, while contrast window geometry exhibits bounded performance regimes.*
 
 ---
 
 ### Figure 3 — Interaction Scatter Support
-![Interaction Scatter Support](results/final_figures/fig07_interaction_scatter_support_grid.png)
+![Interaction Scatter Support](../source/image_enhancementresults/final_figures/fig07_interaction_scatter_support_grid.png)
 
 *Run-level scatter confirms that interaction surfaces are supported by the underlying data rather than binning artifacts.*
 
 ---
 
 ### Figure 4 — Precision–Recall Across CVE Runs
-![Precision–Recall Across Runs](results/final_figures/fig04_precision_vs_recall.png)
+![Precision–Recall Across Runs](../source/image_enhancementresults/final_figures/fig04_precision_vs_recall.png)
 
 *Across all enhancement schedules, the model exhibits coherent behavior. Recall shifts systematically under different image conditions while precision degrades gradually, indicating stable training and inference.*
 
