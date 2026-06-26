@@ -71,7 +71,7 @@ Metrics are logged and aggregated across runs to support interaction analysis an
 ---
 
 ### Figure 2 — Interaction Heatmaps (Median Recall)
-![Interaction Heatmaps](../source/image_enhancement/results/final_figures/fig06_interaction_heatmaps_grid.png)
+![Interaction Heatmaps](../images/fig06_interaction_heatmaps_grid.png)
 
 *Median recall surfaces show strong interaction effects among enhancement parameters. Brightness conditions sharpening behavior, while contrast window geometry exhibits bounded performance regimes.*
 
