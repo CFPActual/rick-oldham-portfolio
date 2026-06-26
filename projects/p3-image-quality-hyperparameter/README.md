@@ -23,7 +23,7 @@ Computer Vision, Data-Centric AI, Feature Engineering, Experimental Design, Hype
 ## Artifacts
 
 * Enhancement Interaction Heatmap
-* [Project Report](report/report.pdf)
+* [Project Report](report/report.md)
 * [Source Code](source/)
 
 
