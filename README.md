@@ -18,11 +18,11 @@ Each project includes a concise overview, supporting visual artifacts, and links
 
 Prototype machine learning pipeline combining GAN-based data augmentation with CNN classification to explore automated model training workflows.
 
-### P2 — GreenCity Urban Tree Canopy Monitor
+### [P2 — GreenCity Urban Tree Canopy Monitor](projects/p2-greencity-canopy-monitor)
 
 Computer vision and geospatial analytics project using aerial imagery to detect and monitor urban tree canopy.
 
-### P3 — Image Quality as a Hyperparameter
+### [P3 — Image Quality as a Hyperparameter](projects/p3-image-quality-hyperparameter)
 
 Experimental study investigating image preprocessing as a tunable hyperparameter for computer vision model performance.
 
