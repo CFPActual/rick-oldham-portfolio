@@ -14,7 +14,7 @@ Each project includes a concise overview, supporting visual artifacts, and links
 
 ## Projects
 
-### P1 — Machine Learning Operations for Pipeline Automation
+### [P1 — Machine Learning Operations for Pipeline Automation](projects/p1-ml-pipeline-automation)
 
 Prototype machine learning pipeline combining GAN-based data augmentation with CNN classification to explore automated model training workflows.
 
