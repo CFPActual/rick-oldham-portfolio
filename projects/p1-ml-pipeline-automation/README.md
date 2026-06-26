@@ -23,8 +23,8 @@ Machine Learning, MLOps, GANs, CNNs, Data Augmentation, Computer Vision, Model E
 ## Artifacts
 
 * GAN Augmentation Workflow  
-* Project Presentation  
-* Source Code  
+* [Project Presentation](projects/p1-ml-pipeline-automation/presentation)  
+* [Source Code](projects/p1-ml-pipeline-automation/source)  
 * [Demo Video](https://youtu.be/YEcsnmd3NME)  
 
 ### GAN Augmentation Workflow 
