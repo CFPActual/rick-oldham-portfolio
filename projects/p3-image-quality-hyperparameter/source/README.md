@@ -1,6 +1,3 @@
-# Capstone Readme: 
-Welcome to my Capstone Page.  I hope you enjoy your stay.  <br><br>
-
 # <center>Image Quality as a Hyperparameter</center>
  
 ## Quantifying how image quality engineering affects downstream model performance.  
