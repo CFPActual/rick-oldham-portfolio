@@ -26,6 +26,10 @@ Computer vision and geospatial analytics project using aerial imagery to detect 
 
 Experimental study investigating image preprocessing as a tunable hyperparameter for computer vision model performance.
 
+### [P4 — Learning-Rate Control System (LRCS): Sneak Peek](projects/p4-lrcs-sneak-peek)
+
+A high-level introduction to an experimental learning-rate control system, showing its original architecture, early observations, and later continuation behavior without revealing implementation details.
+
 ---
 
 Thank you for visiting my portfolio.
