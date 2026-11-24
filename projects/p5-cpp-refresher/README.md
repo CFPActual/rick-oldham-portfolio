@@ -5,3 +5,5 @@ A collection of C++ exercises focused on reinforcing language fundamentals and m
 Topics include pointers, memory management, object-oriented programming, templates, STL, and exception handling.
 
 Each source file represents a focused area of practice, progressing toward a final cumulative integration exercise.
+
+Source files intentionally preserve exploratory code, personal notes, and iterative corrections to reflect the learning process.
