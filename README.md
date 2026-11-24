@@ -30,6 +30,10 @@ Experimental study investigating image preprocessing as a tunable hyperparameter
 
 A high-level introduction to an experimental learning-rate control system, showing its original architecture, early observations, and later continuation behavior without revealing implementation details.
 
+### [P5 — C++ Refresher](projects/p5-cpp-refresher)
+
+A structured collection of C++ exercises reinforcing language fundamentals, memory management, object-oriented programming, templates, STL, and exception handling.
+
 ---
 
 Thank you for visiting my portfolio.
