@@ -1,4 +1,3 @@
-// L3Harris_prac.cpp : This file contains the 'main' function. Program execution begins and ends there.
 
 #include <iostream>
 #include <memory>
@@ -421,7 +420,7 @@ BUSINESS RULES:
 //	std::cout << "Welcome to E3.11.6 \n\n";
 //	const std::string test = "abc";
 //
-//	//const std::string test_cases[7] = {"hello", "recurssion", "L3Harris", "a", "", "racecar", "emordnilap"};
+//	//const std::string test_cases[7] = {"hello", "recurssion", "nohtyP", "a", "", "racecar", "emordnilap"};
 //	//
 //	//for (int i = 0; i < std::size(test_cases); i++) {
 //	//	std::cout << "reverseString(" << test_cases[i] << ") =  " << reverseString(test_cases[i]) << "\n\n";	
